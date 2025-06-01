@@ -1,6 +1,6 @@
 # 🌍 Travel Expense Tracker 💸
 
-A modern and interactive *Travel Expense Tracker* web app built using *Streamlit, **Google Sheets, **Plotly, and **GeoPy*. This tool allows you to log, view, update, and analyze travel expenses with real-time dashboards and visual insights.
+A modern and interactive *Travel Expense Tracker* web app built using *Streamlit, **Google Sheets, . This tool allows you to log, view, update, and analyze travel expenses with real-time dashboards and visual insights.
 
 ![banner]
 
@@ -9,7 +9,6 @@ A modern and interactive *Travel Expense Tracker* web app built using *Streamlit
 ## 🚀 Features
 
 - ✅ Add new expenses with location-based tracking
-- 📍 Auto-fetch latitude & longitude using city/place name
 - 📊 Visual budget analytics and category-wise breakdown
 - 📌 Update and delete specific rows
 - 📑 Stores all data in *Google Sheets*
