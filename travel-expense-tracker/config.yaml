@@ -3,7 +3,7 @@ credentials:
     rizwana:
       email: rizwana@example.com
       name: Rizwana Banu
-      password: "$2b$12$eIXpF/0oB8z9r7yV7/j3ZeKj9O7r./3nJz8WfOqBvMgxYcDWzF5Xm" # hashed password
+      password: "..........................." # hashed password
 
 cookie:
   name: travel_app_auth
